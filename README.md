@@ -34,7 +34,7 @@ Some of the main functionalities of the final product:
 - A play again screen which appears after losing a game. 
 
 
-Challenges:
+## Challenges:
 The biggest challenge was teaching myself React Native, Javascript, Node, JSX, and flex-box. I ran into lots of problems while building the app, where I had to solidify my understanding of the fundamentals of each of these things. Sometimes I spent hours on a specific problem, testing, trying different things and reading forums until I understood what was going on and how to fix it. In the end, I became very efficient at testing my app for potential problems, finding the problems, and then fixing them using all of the resources at my disposal. Not only that, but learning in this way was perhaps one of the most effective ways I had learnt something new. Going through the process of trial and error strengthened my perseverance and really allowed me to get a strong grasp on Javascript and the frameworks that I was using. Some specific challenges that I ran into were:
 
 - The sharing of state between separate components. In order to solve this problem, I created callback functions that were passed as props to each component. I also used this to implement the conditional rendering of the different screens (start screens, game screen, etc).
