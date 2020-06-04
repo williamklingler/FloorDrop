@@ -1,3 +1,5 @@
+##### - [Screen record of game footage](https://live.staticflickr.com/video/49932251522/3e76a18994/720p.mp4?s=eyJpIjo0OTkzMjI1MTUyMiwiZSI6MTU5MDU5MDk5NCwicyI6IjY5ZmIwMDE4NDYwNWJiODVkMGZkNjA1NTViZDk3NTg4ZTQ5ZTVkZmEiLCJ2IjoxfQ) 
+
 # FloorDrop
 #### Epic game available now on the App Store, made by your's truly: William Klingler
 
@@ -43,5 +45,3 @@ The biggest challenge was teaching myself React Native, Javascript, Node, JSX, a
 - Using functional programming in Javascript. As I had only previously developed with C++, I was very new to lambda functions, callbacks, functions as first class objects. This was one hurdle that once I overcame, I became very appreciative of the power of Javascript. Similarly, writing asynchronous expressions was also very different for me but provided me with the same satisfaction once I understood them.
 - Frame rate: React Native is not really meant for making games, so in order to get the game to update and render 60 times per second I used forced updates with this.forceUpdate(). At first, the game was very laggy, so I had to optimize some of the rendering processes by only re-mounting what needed to be updated. 
 - Compiling the binaries for the app. In order to compile an app for the app store, one needs a Mac, which I did not have. I tried to get an image of a Mac OS on a virtual machine, but eventually I just used one of my family member’s. 
-
-[Screen record of game footage](https://live.staticflickr.com/video/49932251522/3e76a18994/720p.mp4?s=eyJpIjo0OTkzMjI1MTUyMiwiZSI6MTU5MDU5MDk5NCwicyI6IjY5ZmIwMDE4NDYwNWJiODVkMGZkNjA1NTViZDk3NTg4ZTQ5ZTVkZmEiLCJ2IjoxfQ) 
