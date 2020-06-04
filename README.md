@@ -1,4 +1,4 @@
-##### - [Screen record of game footage](https://live.staticflickr.com/video/49932251522/3e76a18994/720p.mp4?s=eyJpIjo0OTkzMjI1MTUyMiwiZSI6MTU5MDU5MDk5NCwicyI6IjY5ZmIwMDE4NDYwNWJiODVkMGZkNjA1NTViZDk3NTg4ZTQ5ZTVkZmEiLCJ2IjoxfQ) 
+##### - [Screen record of game footage](https://flic.kr/p/2j5kQLj) 
 
 # FloorDrop
 #### Epic game available now on the App Store, made by your's truly: William Klingler
